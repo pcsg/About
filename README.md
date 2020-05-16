@@ -11,6 +11,8 @@ QUIQQER
 
 You do not know QUIQQER yet? You haven't met QUIQQER?
 
+![](https://github.com/QUIQQER/QUIQQER/raw/master/bin/images/Readme.png)
+
 **QUIQQER is the all around carefree Enterprise Content Management System.**
 Modular design. Convenient backend  Fast implementation.
 
