@@ -17,7 +17,7 @@ You do not know QUIQQER yet? You haven't met QUIQQER?
 Modular design. Convenient backend  Fast implementation.
 
 - [QUIQQER Website](https://www.quiqqer.com)
-- [QUIQQER Repositories](https://github.com/QUIQQER).
+- [QUIQQER Repositories](https://github.com/QUIQQER)
 
 **QUIQQER is more than just a CMS. It contains a multitude of useful tools that are not yet available in this form.**
 
