@@ -3,7 +3,7 @@ About
 
 The Full Service Web Agency - The creators of quiqqer
 
-Hey, a warm hello from us (PCSG). May we introduce ourselves? We are a small team from Solingen, Germany. 
+Hey, a warm hello welcome from us (PCSG). May we introduce ourselves? We are a small team from Solingen, Germany. 
 We develop a lot of open source software like QUIQQER.
 
 QUIQQER
