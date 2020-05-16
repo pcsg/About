@@ -36,4 +36,4 @@ The structured basis of the management system offers users and administrators a 
 
 Your concepts are implemented in minutes. The useful functions, modules and plugins will help you to achieve your goals.
 
-You want to know more? Check the QUIQQER repositories. @QUIQQER
+You want to know more? [Check the QUIQQER repositories](https://github.com/QUIQQER).
