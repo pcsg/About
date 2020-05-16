@@ -16,7 +16,8 @@ You do not know QUIQQER yet? You haven't met QUIQQER?
 **QUIQQER is the all around carefree Enterprise Content Management System.**
 Modular design. Convenient backend  Fast implementation.
 
-[https://www.quiqqer.com](https://www.quiqqer.com)
+- [QUIQQER Website](https://www.quiqqer.com)
+- [QUIQQER Repositories](https://github.com/QUIQQER).
 
 **QUIQQER is more than just a CMS. It contains a multitude of useful tools that are not yet available in this form.**
 
